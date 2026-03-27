@@ -1,4 +1,4 @@
-# Analyse Numérique et Programmation (ANP) 🧮🐍
+# Analyse Numérique avec Python (ANP) 🧮🐍
 
 Bienvenue dans le dépôt **ANP**. Ce répertoire regroupe un ensemble de ressources, de Travaux Pratiques (TP) et de sujets d'examens (partiels) portant sur l'analyse numérique, implémentés en Python via des notebooks Jupyter. 
 
